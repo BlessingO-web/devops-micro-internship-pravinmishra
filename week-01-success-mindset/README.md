@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One thing I believe that most people around me may disagree with is that choosing peace does not mean weakness. Many people think peaceful people are easily taken for granted, but I believe peace is strength. Sometimes, walking away, setting boundaries, and avoiding unnecessary drama protects my own peace.
+
 
 ---
 
@@ -55,11 +56,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Sometimes, honest conflict has to happen before real peace can exist.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to believe that keeping quiet all the time would always create peace. I had a friend who did some things I did not like, but I kept quiet most times because I wanted peace. One day, I finally stood up for myself, and we had a serious quarrel. Surprisingly, that confrontation brought more peace because we understood each other better and knew our boundaries after that.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistency produces results.
 
 ### Evidence from my life
 
-Add your answer here...
+I am also into music, and there was a time I decided to post my music videos consistently on social media about three times a week for almost three months. During that period, I started getting more engagement and visibility. When I stopped posting consistently, I noticed that my engagement dropped. That taught me that consistency truly matters.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Being strategic produces better results than trying to be everywhere.
 
 ### Evidence from my life
 
-Add your answer here...
+When I worked as a Sales Manager, I was brought in to replace two people who were underperforming. Instead of doing things the usual way, I decided to be more intentional and strategic about my sales approach. I focused on the right prospects, planned my follow-ups better, and paid attention to what was actually working. With that approach, I was able to exceed the sales targets allocated for each quarter of the year.
 
 ---
 
@@ -134,14 +135,28 @@ Include this line:
 > **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
 ## Your Article
+![Blessing 2.0](screenshots/week-01-screenshot-02.png) 
+Blessing Ogbonna 2.0: The Music Artiste and Solutions Engineer Building with Purpose
 
-Add your answer here...
+Three to seven years from now, Blessing Ogbonna had grown into a professional who combined creativity, business understanding, and technical depth in a unique way. She was known as a Music Artiste and Solutions Engineer who did not only build systems, but also understood people, business needs, and the importance of cost-effective technology decisions.
+
+Her journey into Cloud and DevOps started with curiosity, consistency, and a strong desire to understand how modern systems worked behind the scenes. Over time, she built and documented several hands-on projects across cloud computing, DevOps, automation, CI/CD, containers, monitoring, and infrastructure. Her GitHub became a strong proof of her growth, showing projects that were not just deployed, but properly documented for others to understand and learn from.
+
+Blessing also earned relevant cloud and DevOps certifications and used her learning to solve real business problems. She worked on solutions that helped companies deploy applications more reliably, reduce unnecessary cloud costs, and improve the way their teams built and delivered software. One thing that stood out about her was her ability to explain technical concepts in simple language. Coming from a sales and customer-facing background, she understood that technology was not just about tools; it was also about communication, business value, and solving the right problem.
+
+She became very interested in Solutions Architecture because she noticed that some engineers focused only on hosting applications without thinking deeply about cost, scalability, and the stage of the business. For example, she understood that not every startup MVP needed a complex Kubernetes setup from day one. Sometimes, the better solution was the one that was simple, cost-effective, secure, and easy to manage.
+
+As she grew, Blessing published blogs, shared lessons from her DevOps journey, contributed to communities, and helped other beginners understand that growth in tech takes patience and structure. Her background in music also remained part of her identity, reminding people that creativity and engineering could work together.
+
+Blessing Ogbonna 2.0 became proof that a person can evolve with discipline, faith, consistency, and intentional learning.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`____https://medium.com/@blessingogbonna2025/blessing-ogbonna-2-0-the-music-artiste-and-solutions-engineer-building-with-purpose-5ff8bbaf5164?sharedUserId=blessingogbonna2025______________________`
 
 ---
 
@@ -173,7 +188,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes, I have cut corners before, and it made me feel bad because that is not the kind of person I want to be. At that moment, my human nature came to play, and I thought more about myself than the other person involved. Afterward, I felt guilty and selfish because I knew I could have handled the situation better. The good thing is that I became aware of it, resolved the issue, and apologized to the person involved. It taught me to be more intentional about doing things the right way.
 
 ---
 
@@ -199,16 +214,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Top Five Regrets of the Dying — Bronnie Ware
+2. Becoming Her — Mimi Kalinda
+3. What I Know For Sure — Oprah Winfrey
+4. Who Moved My Cheese? — Spencer Johnson
+5. The Phoenix Project — Gene Kim, Kevin Behr, and George Spafford
+![book 5](screenshots/week-01-screenshot-01..jpg)
+6. Power Thoughts — Joyce Meyer
+7. The Unicorn Project — Gene Kim
+8. Success Strategies — David Oyedepo
+9. Atomic Habits — James Clear
+10. Deep Work — Cal Newport
 
 ---
 
@@ -237,16 +253,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* DMI assignments submitted before deadline
+* Projects built and documented
+* Ability to explain technical concepts simply
+* Consistency with LinkedIn and music content
+* Sleep hours and energy level
+* Leisure and family time
+* Personal spending and savings habit
+* Procrastination control and focus level
+* Learning hours per week
+* Deep work sessions completed
 
 ---
 
@@ -272,7 +288,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,19 +306,24 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
+* Sunday: Review the past week, check what was completed, and prepare for the new week.
+* Sunday evening: Start watching the new DMI videos and understand the assignment requirements.
+* Monday–Thursday: Do at least 60 minutes of focused deep work daily.
+* Wednesday: Aim to complete about 80–90% of the weekly assignment.
+* Thursday–Friday: Submit the weekly assignment, review what I have done, and prepare for the next DMI session on Saturday.
+* Saturday: Attend the DMI live session, rest afterward, and rewatch the class recording if needed.
+* Daily: Learn one important concept, take simple notes, and avoid waiting until the deadline before starting.
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Because I work 9–5, I will start my DMI work from Saturday evening after the live session. I will use my weekend to understand the assignment, watch or rewatch the videos, and start early so I do not wait until the deadline. During the week, I will also allocate focused time after work to continue the assignment and improve my understanding.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+I will have at least 5–6 focused sessions per week. Outside weekends, I will give at least 45 minutes to 1 hour daily to my growth in DMI. On weekends, I will use more time because that is when I have better space to learn, practice, and document my work.
 
 ---
 
@@ -316,7 +337,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+My first distraction rule is to discipline my thoughts while studying and bring my mind back whenever I notice I am lost in thought. I will also keep my phone far from me, especially since I use my SIM inside my laptop for internet connection. I will avoid opening social media until I finish the work I allocated to myself. When it is time for DMI, I will shift my mind fully to the task and focus until I am done.
 
 ---
 
@@ -324,28 +345,58 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The biggest insight I got about myself this week is that I can achieve great things beyond my expectation when I plan ahead and stay focused without distractions. For example, after attending church on Sunday, I came back in the afternoon and took a nap. When I woke up, I decided to give 45 minutes to 1 hour of focused time to DMI without distraction. I was surprised by how much I was able to achieve within that time. It showed me that focus and planning can produce better results than waiting for perfect conditions.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is that I always want to do everything at the same time. I can be thinking about work, DMI, music, LinkedIn, volunteer opportunities, and other goals together, and this can make me feel overwhelmed. I noticed that when I try to carry everything at once, I may lose focus on the exact thing I am supposed to do at that moment.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+The system I will implement from this week is “one thing at a time.” When I am working, I will keep DMI aside and focus on work. When I pick DMI, I will keep every other thing aside and focus on the assignment or learning task for that period. My exact habit is to do 45 minutes to 1 hour of DMI deep work after work during the week, and also start my DMI assignment on Saturday evening after the live session.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`__Blessing Ogbonna 2.0: Building with Purpose
+
+
+
+Three to seven years from now, Blessing Ogbonna had grown into a professional known for combining technical skill, business understanding, communication, and creativity. She was not only recognized as a Cloud and DevOps professional, but also as a Solutions Engineer who understood how to build systems that solved real problems for businesses.
+
+
+
+Her journey into technology started with curiosity and consistency. Over the years, she built and shipped several cloud and DevOps projects across AWS, Linux, Docker, Kubernetes, CI/CD, monitoring, infrastructure automation, and security. Her GitHub became a strong portfolio of documented projects, showing how she moved from learning concepts to applying them in real environments. She also published technical blogs where she explained cloud and DevOps concepts in simple language for beginners.
+
+
+
+Blessing earned relevant cloud and DevOps certifications and used her knowledge to contribute to real business solutions. She worked on projects that helped companies deploy applications more reliably, improve automation, and reduce unnecessary cloud costs. One of the things that made her stand out was her ability to think beyond tools. She understood that engineering was not only about hosting applications, but also about choosing the right solution for the stage, budget, and goals of a business.
+
+
+
+Coming from a sales and customer-facing background, Blessing brought strong communication and business awareness into her technical work. She could speak with technical teams and also explain solutions clearly to non-technical stakeholders. This helped her grow in the direction of Solutions Architecture, where she designed systems that were cost-effective, scalable, secure, and easy to manage.
+
+
+
+She also contributed to communities by mentoring beginners, sharing her learning process publicly, and encouraging others who were transitioning into tech. 
+
+Her background in music remained part of her identity, showing that creativity and engineering could work together. She became an example of someone who did not abandon one part of herself to build another.
+
+
+
+Blessing Ogbonna 2.0 became proof that growth is possible through faith, discipline, consistency, and intentional learning. She built with purpose, communicated with clarity, and continued to evolve as technology changed.
+
+
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/gRBQEwxE ).________________________`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **(https://www.linkedin.com/posts/blessing-ogbonna_blessing-ogbonna-20-building-with-purpose-share-7477679336108728320-Nx1_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqul0oBNU_YyB5vIlKM3BG37iBvIrL_-oI)**  
+- Blog / Medium : **(https://medium.com/@blessingogbonna2025/blessing-ogbonna-2-0-the-music-artiste-and-solutions-engineer-building-with-purpose-5ff8bbaf5164?sharedUserId=blessingogbonna2025)**  
 
 ---
 
