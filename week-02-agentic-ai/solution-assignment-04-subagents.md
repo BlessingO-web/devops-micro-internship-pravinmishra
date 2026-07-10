@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![task1-subagents](screenshots/ass04-01.png)
 
 ---
 
@@ -34,19 +34,17 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
-
+The cost optimizer uses Haiku because it is cost-effective. Cost analysis is usually straightforward and does not require deep reasoning. Haiku is fast, affordable, and efficient, making it a good choice for reviewing Terraform resources and suggesting ways to reduce cloud costs without using a more expensive model.
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
-
+The security auditor is only meant to review and identify security issues in the infrastructure. It does not need permission to modify files because its role is to provide recommendations, not make decisions or change the code. Since it is onboarded as a teammate rather than the decision-maker, giving it only read access helps prevent unintended changes and follows the principle of least privilege, where every tool is given only the permissions it needs to perform its task.
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf-writer uses inherit so it can inherit the same model that Claude Code is currently running. This makes it flexible because I don't have to specify a model every time it simply uses the one Claude Code is already using.
 
 ---
 
@@ -54,13 +52,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![task1-subagents](screenshots/ass04-02.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![task1-subagents](screenshots/ass04-03.png)
 
 ---
 
@@ -74,17 +72,17 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![task2-subagents](screenshots/ass04-04.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![task3-subagents](screenshots/ass04-05.png)
 
 ---
 
-# Task 4 — Run the Cost Optimizer
+# Task 3 — Run the Cost Optimizer
 
 ## Goal
 
@@ -94,7 +92,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![task2-subagents](screenshots/ass04-06.png)
 
 ---
 
@@ -110,7 +108,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/BlessingO-web/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
