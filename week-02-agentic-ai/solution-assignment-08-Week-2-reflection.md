@@ -16,7 +16,34 @@ You will also publish a LinkedIn post summarizing your learning and share both l
 
 ## Goal
 
-Write a reflection blog covering your Week 2 learning experience.
+By Blessing Ogbonna
+
+Week 2 has been one of the most challenging and rewarding weeks of my DevOps Micro Internship with Agentic AI. Before this week, I saw AI mainly as a tool for answering questions or generating code. Today, I have a much broader understanding of how AI can become part of an engineering workflow.
+
+One of the first things I explored was Claude Code. I initially experimented with running it locally through Ollama before deciding to use Anthropic API credits with the Haiku model to complete my assignments more efficiently. That experience helped me understand the difference between running local models and using cloud-hosted AI services.
+
+I also learned that AI becomes much more effective when it has context. Working with Memory showed me how project-specific information can be preserved, reducing the need to repeat the same instructions every session. Instead of treating AI like a chatbot, I began seeing it as a teammate that can be onboarded into a project.
+
+Another important topic was Hooks. I learned that hooks can automate checks and actions before or after commands, making workflows more reliable and reducing repetitive manual tasks. While setting up hooks, I encountered a jq PATH issue that required troubleshooting. Solving that problem reminded me that successful engineering isn't only about writing code—it also requires understanding how development tools interact with the operating system.
+
+This week also introduced me to Subagents. Rather than assigning every task to one AI assistant, I learned how specialized agents can focus on security reviews, cost optimization, or Terraform generation. Each agent is designed for a specific responsibility, making the workflow more organized and efficient.
+
+Write on Medium
+Closely related to this was learning about Permissions. I now understand why AI agents should only receive the permissions they need to perform their tasks. For example, a security auditor should review and report issues rather than modify infrastructure. This follows the principle of least privilege and helps reduce the risk of unintended changes.
+
+Another concept I explored was the Model Context Protocol (MCP). It showed me how AI can securely interact with external tools and services, expanding what an AI assistant can do beyond simply answering questions.
+
+Perhaps the biggest lesson of the week wasn’t technical.
+
+While working through one of my assignments, I skipped a single instruction because I assumed I already understood the task. That one mistake cost me several hours of work. I had to delete files, retake screenshots, and repeat parts of the assignment. Although it was frustrating, it reminded me that engineering is as much about attention to detail as it is about technical knowledge.
+
+By the end of the week, I noticed a significant increase in my confidence. Concepts like Claude Code, Hooks, Memory, Permissions, MCP, and Subagents felt unfamiliar at first, but after repeated practice, troubleshooting, and completing the assignments, they became much more comfortable to work with.
+
+One habit I plan to implement going forward is to carefully read and understand project requirements before I begin implementation. I also want to continue documenting my learning publicly because writing about my experiences reinforces what I have learned and allows me to measure my growth over time.
+
+Week 2 reminded me that modern DevOps is no longer only about cloud platforms, containers, and automation. Agentic AI is becoming part of the engineering workflow, and learning how to work effectively with AI is quickly becoming an important skill for every engineer. I am grateful for everything I learned this week and look forward to applying these lessons in future projects.
+
+Agentic Ai Learning
 
 ### Blog Requirements
 
@@ -46,7 +73,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![task1-reflection](screenshots/ass08-01.png)
 
 ---
 
@@ -54,7 +81,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@blessingogbonna2025/reflection-week-2-93907e004e0c?sharedUserId=blessingogbonna2025`
 
 ---
 
@@ -92,23 +119,38 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![task1-reflection](screenshots/ass08-04.png)
 
 ---
 
 ### Submission Field
-
-LinkedIn Post Content (copy-paste here):
-
 ```
-Paste your LinkedIn post content here
+One sentence I skipped cost me several hours of work | Learning Agentic AI Week 2 Reflection
+
+This week reminded me that engineering isn't only about learning new tools.
+
+While working through my DevOps Micro Internship with Agentic AI, I had the opportunity to explore concepts such as Claude Code, Hooks, Memory, Subagents, MCP, and Permissions. Every assignment introduced me to a new way of thinking about AI, not just as a chatbot, but as an engineering assistant that can be guided with context and clear instructions.
+
+In my excitement, I skipped one sentence in the assignment instructions because I thought I already understood what needed to be done.
+
+That one mistake cost me several hours of work.I had to go back, delete files, retake screenshots, update my repository, and redo part of the assignment from the correct point. It was frustrating at the time, but it turned out to be one of the biggest lessons I learned all week.
+
+It reminded me that engineering isn't only about building. It's also about paying attention to details.
+
+Whether it's a line in a document, a configuration file, or a command in the terminal, every instruction matters.
+
+Beyond that lesson, I now have a much better understanding of how Agentic AI can fit into a DevOps workflow, and I'm excited to keep learning and building throughout this internship.
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/gRBQEwxE ).
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://lnkd.in/p/ePteQwh8`
 
 ---
 

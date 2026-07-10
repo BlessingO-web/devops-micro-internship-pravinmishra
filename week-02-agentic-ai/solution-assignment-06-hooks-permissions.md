@@ -48,7 +48,7 @@ Extend `settings.json` with a PreToolUse hook that blocks dangerous Bash command
 
 #### Screenshot 3 — full settings.json with permissions and hooks
 
-![task3-hook](screenshots/ass05-03.png)
+![task3-hook](screenshots/ass05-06.png)
 
 ---
 
@@ -62,7 +62,7 @@ Verify that destructive prompts are blocked before Claude begins execution.
 
 #### Screenshot 4 — blocked prompt due to UserPromptSubmit hook
 
-![task4-hook](screenshots/ass05-04.png)
+![task4-hook](screenshots/ass05-06.png)
 
 ---
 
@@ -76,11 +76,11 @@ Verify that dangerous commands are intercepted before execution by the PreToolUs
 
 #### Screenshot 5 — PreToolUse hook blocking terraform destroy
 
-![task5-hook](screenshots/ass06-05.png)
+![task5-hook](screenshots/ass06-070.png)
 
 ---
 
-# Submission Instructions
+# Submission Instructions/exit
 
 - Ensure `.claude/settings.json` is committed to your GitHub repository
 - Run both hook tests successfully and capture required screenshots
@@ -92,7 +92,7 @@ Verify that dangerous commands are intercepted before execution by the PreToolUs
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/BlessingO-web/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
@@ -106,7 +106,7 @@ Paste your forked repository URL here:
 - [ ] Command-level `terraform destroy` was blocked (Screenshot 5)
 - [ ] `settings.json` committed and visible in GitHub repo
 
----
+---g
 
 ## 📌 About DMI & CloudAdvisory
 
