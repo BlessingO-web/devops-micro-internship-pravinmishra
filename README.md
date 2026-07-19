@@ -65,8 +65,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+Week 00 → Internet & Networking Basics
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
@@ -74,8 +74,8 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux for DevOps -->
-<!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
+Week 03 → Linux for DevOps
+[![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/)
 
 <!-- Week 04 → Bash Scripting -->
 <!-- [![Week 04 – Bash](./badges/week-04.svg)](./week-04-bash-scripting/) -->
@@ -130,10 +130,10 @@ Week 02 → Agentic AI with Claude Code
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/blessing-ogbonna_blessing-ogbonna-20-building-with-purpose-share-7477679336108728320-Nx1_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqul0oBNU_YyB5vIlKM3BG37iBvIrL_-oI | https://medium.com/@blessingogbonna2025/blessing-ogbonna-2-0-the-music-artiste-and-solutions-engineer-building-with-purpose-5ff8bbaf5164?sharedUserId=blessingogbonna2025 |
-| 02 | Agentic AI with Claude Code | ⬜ ✅ Completed | ✅ Solved | — | — |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | https://lnkd.in/p/ePteQwh8 | https://medium.com/@blessingogbonna2025/reflection-week-2-93907e004e0c?sharedUserId=blessingogbonna2025 |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://lnkd.in/p/ePteQwh8  |https://medium.com/@blessingogbonna2025/reflection-week-2-93907e004e0c?sharedUserId=blessingogbonna2025|
+| 03 | Linux for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/blessing-ogbonna_devops-linux-bashscripting-share-7484468228782604288-TJTX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqul0oBNU_YyB5vIlKM3BG37iBvIrL_-oI | https://medium.com/@blessingogbonna2025/reflection-week-2-93907e004e0c?sharedUserId=blessingogbonna2025 |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

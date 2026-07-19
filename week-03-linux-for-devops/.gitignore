@@ -1,0 +1,6 @@
+# Windows system files
+.DS_Store
+Thumbs.db
+AppData/
+*.log
+*.tmp
